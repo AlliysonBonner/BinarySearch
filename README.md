@@ -1,5 +1,7 @@
 # Binary Search Algorithm
 
+![A computer doing binary search](https://github.com/AlliysonBonner/BinarySearch/blob/main/image.png?raw=true)
+
 This is an implementation of the Binary Search Algorithm in Python. The algorithm uses the divide and conquer approach to search for an element in a sorted list.
 
 There are two algorithms implemented:
